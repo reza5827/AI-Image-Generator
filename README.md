@@ -1,5 +1,4 @@
 # AI Image Generator
-
 Generate images using AI models.
 
 ## Features
