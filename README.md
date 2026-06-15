@@ -1,6 +1,5 @@
 # AI Image Generator
 Generate images using AI models.
-
 ## Features
 - Text-to-image generation
 - Multiple models support
