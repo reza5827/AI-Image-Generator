@@ -6,7 +6,6 @@ Generate images using AI models.
 - Style transfer
 - Batch processing
 - API ready
-
 ## Tech Stack
 - Python
 - Stable Diffusion
