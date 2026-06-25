@@ -11,6 +11,5 @@ Generate images using AI models.
 - Stable Diffusion
 - FastAPI
 - Docker
-
 ## License
 MIT
