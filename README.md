@@ -8,7 +8,7 @@ Generate images using AI models.
 - API ready
 ## Tech Stack
 - Python
-- Stable Diffusion
+-  Diffusion
 - FastAPI
 - Docker
 ## License
