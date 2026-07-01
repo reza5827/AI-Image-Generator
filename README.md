@@ -9,7 +9,6 @@ Generate images using AI models.
 ## Tech Stack
 - Python
 -  Diffusion
-- FastAPI
 - Docker
 ## License
 MIT
