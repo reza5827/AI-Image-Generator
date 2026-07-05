@@ -2,7 +2,7 @@
 Generate images using AI models.
 ## Features
 - Text-to-image generation
-- Multiple models support
+- Multiple  support
 - Style transfer
 - Batch processing
 - API ready
