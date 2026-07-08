@@ -7,7 +7,6 @@ Generate images using AI models.
 - Batch processing
 - API ready
 ## Tech Stack
-- 
 -  Diffusion
 - Docker
 ## License
