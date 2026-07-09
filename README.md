@@ -4,7 +4,7 @@ Generate images using AI models.
 - Text-to-image generation
 - Multiple  support
 - Style transfer
-- Batch processing
+- Batch 
 - API ready
 ## Tech Stack
 -  Diffusion
