@@ -6,7 +6,7 @@ Generate images using AI models.
 - Style transfer
 - Batch 
 - API ready
-## Tech Stack
+##  Stack
 -  Diffusion
 - Docker
 ## License
